@@ -32,7 +32,7 @@ Syntax highlighted code block
 Using markdown I made this:
 ```markdown
 My favorite things:
-- basketball
+- Basketball
 - Food
 - My Family
 - Football
