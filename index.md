@@ -1,10 +1,12 @@
 # Aditya Naik's First CS193 Lab
 
-## Welcome to GitHub Pages
+## An Introduction to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I edited this page and looked at the directions for lab 1. For right now, the _setting button_ doesn't work at all.
 
 ### Markdown
 
@@ -26,6 +28,15 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+Using markdown I made this:
+```markdown
+My favorite things:
+- basketball
+- Food
+- My Family
+- Football
+- Coding
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
