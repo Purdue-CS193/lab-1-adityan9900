@@ -29,9 +29,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-### Using markdown I made this:
+Using markdown I made this:
 ```markdown
-My favorite things about CS193
+### My favorite things about CS193
 - Get to use Ubuntu
 - Get to practice coding
 - Making bulleted lists
