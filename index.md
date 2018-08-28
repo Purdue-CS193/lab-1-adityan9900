@@ -31,11 +31,10 @@ Syntax highlighted code block
 ```
 Using markdown I made this:
 ```markdown
-My favorite things:
-- Basketball
-- Food
-- My Family
-- Football
+My favorite things about CS193
+- Get to use Ubuntu
+- Get to practice coding
+- Making bulleted lists
 - Coding
 ```
 
